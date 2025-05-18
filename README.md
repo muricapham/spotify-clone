@@ -17,3 +17,4 @@ The Spotify clone displays a list of songs from a predfined list. The song playe
 
 - [ReactJS](https://reactjs.org/)
 - [React Router](https://reactrouter.com/)
+- [Tailwind CSS](https://tailwindcss.com/)
