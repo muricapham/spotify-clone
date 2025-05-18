@@ -6,7 +6,7 @@
   <img alt="screenshot" width="100%" src="./src/assets/screenshot.png" />
 </p>
 <p>
-  <img alt="screenshot" width="100%" src="./src/assets/pokemon-detail.png" />
+  <img alt="screenshot" width="100%" src="./src/assets/screenshot-detail.png" />
 </p>
 
 ## 📝 Project Description
